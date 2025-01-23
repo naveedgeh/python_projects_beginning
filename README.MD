@@ -36,5 +36,6 @@ The YouTube Video Manager is a Python-based application designed to help you man
 1. Run the application:
     ```bash
     python3 youtube_manager.py
+    python3 youtube_manager_sqlite.py
     ```
 
